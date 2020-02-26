@@ -1,0 +1,5 @@
+pytz==2017.2
+django==1.11.*
+psycopg2-binary==2.8.*
+environs==5.2.1
+dotenv==0.10.3
